@@ -47,7 +47,23 @@ Each user can file taxes once a year using only one product.*/
 ![Customer With all products Category](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/Customer%20with%20all%20products%20Category.png)
 
 ---
-Updating...
+
+![Oracle Sales Operations](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/Oracle%20Sales%20Operations.png)
+
+
+---
+
+![Basic Report Count](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/Basic%20Report%20Count.png)
+
+---
+
+![Purchaeing](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/Purchasing.png)
+
+---
+
+![Balance](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/Balance.png)
+
+---
 
 
 

@@ -65,7 +65,24 @@ Each user can file taxes once a year using only one product.*/
 
 ---
 
+![Cubic Volume](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/Cubic%20Volume%20.png)
 
+
+---
+
+![Uber Problem](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/UBER.png)
+
+---
+
+![Largest Customer Buy](https://github.com/Sarthak18-DA/SQL-Interview-Questions-Solved/blob/main/Largest%20Customer%20Buy.png)
+
+
+---
+
+
+
+
+---
 
 
 
